@@ -14,7 +14,7 @@
 ## Second Step:
 #### After running the backend you have to start the frontend application
 ###### In order to do that you will have to follow these steps:
-1. Open another your terminal and navigate do the frontend folder.
+1. Open another terminal and navigate do the frontend folder.
 2. Execute "npm i" in your terminal and wait for the installation to end.
 3. Execute "npm start" and your application should open automatically. (if not, you can open your brwoser and navigate to "http://localhost:3000")
 
