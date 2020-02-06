@@ -7,16 +7,16 @@
 
 #### After cloning or downloading the repository you have to initiate the backend
 ###### In order to do that you will have to follow these steps:
-1. Open your terminal and navigate do the backend folder.
+1. Open your terminal and navigate to the backend folder.
 2. Execute "npm i" in your terminal and wait for the installation to end.
 3. Execute "npm run dev" in the terminal and leave it open.
 
 ## Second Step:
 #### After running the backend you have to start the frontend application
 ###### In order to do that you will have to follow these steps:
-1. Open another terminal and navigate do the frontend folder.
+1. Open another terminal and navigate to the frontend folder.
 2. Execute "npm i" in your terminal and wait for the installation to end.
-3. Execute "npm start" and your application should open automatically. (if not, you can open your brwoser and navigate to "http://localhost:3000")
+3. Execute "npm start" and your application should open automatically. (if not, you can open your browser and navigate to "http://localhost:3000")
 
 
 ## Tip:
